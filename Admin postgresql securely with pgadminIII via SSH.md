@@ -1,6 +1,6 @@
 # Admin Postgresql securely on Windows with pgAdminIII via SSH#
 
-<br/> ** (1) install pgadminIII**
+<br/> **(1) install pgadminIII**
 
 [http://www.pgadmin.org/download/](http://www.pgadmin.org/download/)
 
