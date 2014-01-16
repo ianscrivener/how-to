@@ -1,8 +1,8 @@
-# Admin postgresql securely with pgadminIII via SSH  #
+# Admin postgresql securely with pgAdminIII via SSH (Windows)  #
 
 <br/> **install pgadminIII**
 
-[`http://www.pgadmin.org/download/](`http://www.pgadmin.org/download/)
+[http://www.pgadmin.org/download/](http://www.pgadmin.org/download/)
 
 <br/> **install SecureCRT**
 
